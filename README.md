@@ -7,7 +7,7 @@ The structure of the repository is the following:
 3. notebook
 4. script
 5. figure
-6. data
+6. data (the raw file containing the application_train.csv and bureau.csv need to be downloaded from the official Home Credit data source: https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/data)
 7. README.md
 8. LICENSE
 9. requirements.txt
