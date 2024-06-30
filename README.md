@@ -15,7 +15,6 @@ The structure of the repository is the following:
 Setting up the virtual environment:
 
 A. pip install virtualenv
-B. source thesis/bin/activate
-
-
-
+B. python3.11 -m venv <virtual-environment-name>
+C. source <virtual-environment-name>/bin/activate
+D. pip install -r requirements.txt
